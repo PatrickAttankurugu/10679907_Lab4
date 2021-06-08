@@ -3,7 +3,7 @@ from PIL import Image, ImageFilter
 
   
 
-image = Image.open(r"c://users/Patrick/lab4_10679907.py") 
+image = Image.open(r"c://Users/Patrick/Desktop/lab4_10679907.py") 
 
   
 # Cropping the image  
